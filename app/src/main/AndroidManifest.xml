@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Location permissions -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    
+    <!-- Network permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    
+    <!-- Storage permissions for caching -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/ic_directions_car"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_directions_car"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RideShareApp"
+        tools:targetApi="31">
+        
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="YOUR_GOOGLE_MAPS_API_KEY" />
+        
+        <activity
+            android:name="com.example.easycarpool.activities.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.example.easycarpool.activities.OfferRideActivity" android:exported="false" />
+        <activity android:name="com.example.easycarpool.activities.FindRideActivity" android:exported="false" />
+        <activity android:name="com.example.easycarpool.activities.RideDetailsActivity" android:exported="false" />
+
+        <!-- CarPool Connect activities -->
+        <activity android:name=".activities.LoginActivity" android:exported="false" />
+        <activity android:name=".activities.RegisterActivity" android:exported="false" />
+        <activity android:name=".activities.CreateRideActivity" android:exported="false" />
+        <activity android:name=".activities.RideDetailsActivity" android:exported="false" />
+        <activity android:name=".activities.MyRidesActivity" android:exported="false" />
+    </application>
+
+</manifest>

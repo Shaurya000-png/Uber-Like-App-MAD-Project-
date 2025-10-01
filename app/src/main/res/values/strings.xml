@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EasyCarpool</string>
+    
+    <!-- Main Activity -->
+    <string name="welcome_message">Find your perfect ride match</string>
+    <string name="from_hint">From</string>
+    <string name="to_hint">To</string>
+    <string name="departure_time">Departure Time</string>
+    <string name="find_rides">Find Rides</string>
+    <string name="offer_ride">Offer a Ride</string>
+    <string name="find_ride">Find a Ride</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="ride_added">Ride added</string>
+    <string name="current_location">Current Location</string>
+    
+    <!-- Location -->
+    <string name="location_permission_required">Location permission is required to find nearby rides</string>
+    <string name="location_permission_denied">Location permission denied. Please enable it in settings.</string>
+    <string name="location_not_available">Location not available. Please check your GPS settings.</string>
+    
+    <!-- Ride Matching -->
+    <string name="matching_rides">Matching Rides</string>
+    <string name="no_rides_found">No matching rides found</string>
+    <string name="match_score">Match Score</string>
+    <string name="detour_time">Detour Time</string>
+    <string name="estimated_price">Estimated Price</string>
+    <string name="select_ride">Select Ride</string>
+    <string name="request_ride">Request Ride</string>
+    
+    <!-- Chat -->
+    <string name="chat_with_driver">Chat with Driver</string>
+    <string name="type_message">Type a message...</string>
+    <string name="send">Send</string>
+    
+    <!-- General -->
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
+
