@@ -8,3 +8,4 @@ An Android Mobile Application Development project for a simple Uber-style carpoo
 
 - Offer a ride with driver name, start point, destination, time, and available seats
 - Browse available rides in a RecyclerView list
+- Open a ride details screen from the search results
