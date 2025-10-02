@@ -5,3 +5,5 @@ An Android Mobile Application Development project for a simple Uber-style carpoo
 ![Status](https://img.shields.io/badge/status-college_project-blue)
 
 ## Features
+
+- Offer a ride with driver name, start point, destination, time, and available seats
