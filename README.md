@@ -7,3 +7,4 @@ An Android Mobile Application Development project for a simple Uber-style carpoo
 ## Features
 
 - Offer a ride with driver name, start point, destination, time, and available seats
+- Browse available rides in a RecyclerView list
