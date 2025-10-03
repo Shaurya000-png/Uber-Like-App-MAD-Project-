@@ -12,3 +12,5 @@ An Android Mobile Application Development project for a simple Uber-style carpoo
 - Seed sample rides through an in-memory repository for quick testing
 
 ## Tech Stack
+
+- Java for Android activity and model code
