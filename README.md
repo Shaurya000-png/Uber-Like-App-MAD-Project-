@@ -10,3 +10,5 @@ An Android Mobile Application Development project for a simple Uber-style carpoo
 - Browse available rides in a RecyclerView list
 - Open a ride details screen from the search results
 - Seed sample rides through an in-memory repository for quick testing
+
+## Tech Stack
