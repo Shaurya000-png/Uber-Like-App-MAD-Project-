@@ -17,3 +17,4 @@ An Android Mobile Application Development project for a simple Uber-style carpoo
 - XML layouts for activity, list item, matching, and chat screens
 - Gradle Android application project structure
 - AndroidX AppCompat, RecyclerView, ConstraintLayout, and CardView
+- Material Components for polished inputs and controls
