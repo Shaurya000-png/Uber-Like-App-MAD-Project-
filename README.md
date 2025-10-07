@@ -18,3 +18,5 @@ An Android Mobile Application Development project for a simple Uber-style carpoo
 - Gradle Android application project structure
 - AndroidX AppCompat, RecyclerView, ConstraintLayout, and CardView
 - Material Components for polished inputs and controls
+
+The project includes login and registration screens from the fuller CarPool Connect flow.
