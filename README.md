@@ -22,3 +22,5 @@ An Android Mobile Application Development project for a simple Uber-style carpoo
 The project includes login and registration screens from the fuller CarPool Connect flow.
 
 ## Setup
+
+1. Open the project in Android Studio.
