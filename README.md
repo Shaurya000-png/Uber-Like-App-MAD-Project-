@@ -27,3 +27,4 @@ The project includes login and registration screens from the fuller CarPool Conn
 2. Sync Gradle files and let Android Studio download dependencies.
 - Store created rides locally using a small JSON-backed helper
 - Search local rides by destination from the home screen
+3. Run the app on an Android emulator or physical device.
