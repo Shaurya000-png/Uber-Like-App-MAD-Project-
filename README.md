@@ -25,3 +25,4 @@ The project includes login and registration screens from the fuller CarPool Conn
 
 1. Open the project in Android Studio.
 2. Sync Gradle files and let Android Studio download dependencies.
+- Store created rides locally using a small JSON-backed helper
