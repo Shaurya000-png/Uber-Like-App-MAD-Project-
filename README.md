@@ -29,3 +29,5 @@ The project includes login and registration screens from the fuller CarPool Conn
 - Search local rides by destination from the home screen
 3. Run the app on an Android emulator or physical device.
 4. Replace `YOUR_GOOGLE_MAPS_API_KEY` in `app/src/main/AndroidManifest.xml` when testing maps.
+
+Create Ride captures destination, date/time, seat count, cost, and the current map camera position.
