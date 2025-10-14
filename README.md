@@ -53,3 +53,5 @@ app/src/main/res/
   drawable/        Icons, chat bubbles, and matching score backgrounds
   values/          Colors, strings, and themes
 ```
+
+The matching and chat screens are included as polished UI prototypes for a fuller ride-share workflow.
