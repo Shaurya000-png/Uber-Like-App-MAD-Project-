@@ -41,3 +41,9 @@ app/src/main/java/com/example/easycarpool/
   activities/      MVP offer, find, and details screens
   models/          Serializable ride model
   store/           In-memory ride repository
+
+app/src/main/java/com/example/carpoolconnect/
+  activities/      Login, register, home, create ride, and details screens
+  adapters/        RecyclerView adapter for local rides
+  models/          User and ride models
+  services/        JSON-backed local ride store
