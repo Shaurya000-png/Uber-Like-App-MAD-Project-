@@ -47,3 +47,9 @@ app/src/main/java/com/example/carpoolconnect/
   adapters/        RecyclerView adapter for local rides
   models/          User and ride models
   services/        JSON-backed local ride store
+
+app/src/main/res/
+  layout/          Activity and list item layouts
+  drawable/        Icons, chat bubbles, and matching score backgrounds
+  values/          Colors, strings, and themes
+```
