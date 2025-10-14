@@ -35,3 +35,9 @@ Create Ride captures destination, date/time, seat count, cost, and the current m
 Joining a ride reduces available seats in the local store and shows simple feedback.
 
 ## Project Structure
+
+```text
+app/src/main/java/com/example/easycarpool/
+  activities/      MVP offer, find, and details screens
+  models/          Serializable ride model
+  store/           In-memory ride repository
