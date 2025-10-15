@@ -60,3 +60,4 @@ The matching and chat screens are included as polished UI prototypes for a fulle
 
 - `ec_activity_main.xml`: entry screen for offering or finding a ride
 - `ec_activity_offer_ride.xml`: form for adding a quick sample ride
+- `ec_activity_find_ride.xml`: RecyclerView ride search results
