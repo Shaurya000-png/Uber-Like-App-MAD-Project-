@@ -62,3 +62,4 @@ The matching and chat screens are included as polished UI prototypes for a fulle
 - `ec_activity_offer_ride.xml`: form for adding a quick sample ride
 - `ec_activity_find_ride.xml`: RecyclerView ride search results
 - `activity_home.xml`: local ride list with destination search
+- `activity_create_ride.xml`: map-backed ride creation form
