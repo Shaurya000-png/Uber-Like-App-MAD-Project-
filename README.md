@@ -71,3 +71,5 @@ The matching and chat screens are included as polished UI prototypes for a fulle
 - `carpoolconnect` is the expanded flow with local storage, home search, and map-based ride creation.
 - `RideStore` persists rides locally with Gson so created rides survive screen changes.
 - The create ride screen uses the current map camera target as a lightweight start location input.
+
+## Current Limitations
