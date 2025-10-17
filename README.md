@@ -64,3 +64,5 @@ The matching and chat screens are included as polished UI prototypes for a fulle
 - `activity_home.xml`: local ride list with destination search
 - `activity_create_ride.xml`: map-backed ride creation form
 - `activity_ride_matching.xml` and `activity_chat.xml`: later-stage UI prototype screens
+
+## Implementation Notes
