@@ -73,3 +73,7 @@ The matching and chat screens are included as polished UI prototypes for a fulle
 - The create ride screen uses the current map camera target as a lightweight start location input.
 
 ## Current Limitations
+
+- The app is a college prototype, so not every screen is wired into one final production flow.
+- Authentication screens exist from an earlier Firebase direction, while local ride features use device storage.
+- Payment, live tracking, and production driver matching are out of scope.
