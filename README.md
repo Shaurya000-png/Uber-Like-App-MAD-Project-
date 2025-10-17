@@ -66,3 +66,5 @@ The matching and chat screens are included as polished UI prototypes for a fulle
 - `activity_ride_matching.xml` and `activity_chat.xml`: later-stage UI prototype screens
 
 ## Implementation Notes
+
+- `easycarpool` is the simple MVP flow for quickly demonstrating offer and find ride behavior.
