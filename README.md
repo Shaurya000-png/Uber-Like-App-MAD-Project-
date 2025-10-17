@@ -68,3 +68,4 @@ The matching and chat screens are included as polished UI prototypes for a fulle
 ## Implementation Notes
 
 - `easycarpool` is the simple MVP flow for quickly demonstrating offer and find ride behavior.
+- `carpoolconnect` is the expanded flow with local storage, home search, and map-based ride creation.
