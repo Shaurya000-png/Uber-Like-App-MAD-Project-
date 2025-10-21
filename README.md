@@ -79,3 +79,5 @@ The matching and chat screens are included as polished UI prototypes for a fulle
 - Payment, live tracking, and production driver matching are out of scope.
 
 ## Manual Testing
+
+- Sync the Gradle project successfully in Android Studio.
