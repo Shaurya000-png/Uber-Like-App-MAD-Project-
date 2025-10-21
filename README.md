@@ -81,3 +81,4 @@ The matching and chat screens are included as polished UI prototypes for a fulle
 ## Manual Testing
 
 - Sync the Gradle project successfully in Android Studio.
+- Add a ride from the offer screen and confirm it appears in the list.
