@@ -82,3 +82,4 @@ The matching and chat screens are included as polished UI prototypes for a fulle
 
 - Sync the Gradle project successfully in Android Studio.
 - Add a ride from the offer screen and confirm it appears in the list.
+- Create a local ride from the CarPool Connect flow and reopen the home screen.
