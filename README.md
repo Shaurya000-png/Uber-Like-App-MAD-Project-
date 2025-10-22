@@ -92,3 +92,4 @@ The matching and chat screens are included as polished UI prototypes for a fulle
 - Implement real route and schedule compatibility scoring
 - Add pickup and destination markers with route drawing on Google Maps
 - Wire chat UI to a real message store
+- Improve empty states and error handling across the MVP screens
