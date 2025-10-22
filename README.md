@@ -91,3 +91,4 @@ The matching and chat screens are included as polished UI prototypes for a fulle
 - Reconnect authentication screens to a consistent backend or Firebase project
 - Implement real route and schedule compatibility scoring
 - Add pickup and destination markers with route drawing on Google Maps
+- Wire chat UI to a real message store
