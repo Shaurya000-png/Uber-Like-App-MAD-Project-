@@ -87,3 +87,5 @@ The matching and chat screens are included as polished UI prototypes for a fulle
 - Open ride details and join a ride to verify the seat count path.
 
 ## Roadmap
+
+- Reconnect authentication screens to a consistent backend or Firebase project
