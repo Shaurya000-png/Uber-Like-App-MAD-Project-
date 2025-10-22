@@ -85,3 +85,5 @@ The matching and chat screens are included as polished UI prototypes for a fulle
 - Create a local ride from the CarPool Connect flow and reopen the home screen.
 - Type part of a destination and confirm the ride list filters correctly.
 - Open ride details and join a ride to verify the seat count path.
+
+## Roadmap
