@@ -32,7 +32,7 @@ The project includes login and registration screens from the fuller CarPool Conn
 
 Create Ride captures destination, date/time, seat count, cost, and the current map camera position.
 
-Joining a ride reduces available seats in the local store and shows simple feedback.
+Joining a ride reduces the available seat count in local storage and shows simple feedback.
 
 ## Project Structure
 
