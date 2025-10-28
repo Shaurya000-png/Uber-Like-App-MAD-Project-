@@ -102,6 +102,7 @@ This project was built for a Mobile Application Development submission and focus
 ## Final Notes
 
 The codebase intentionally keeps the early MVP flow and the later CarPool Connect flow together to show the project evolution.
+Do not commit `local.properties`; Android Studio should generate it locally for each machine.
 ## License
 
 This repository is kept as a college project archive and learning reference.
