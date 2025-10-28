@@ -106,3 +106,5 @@ Do not commit `local.properties`; Android Studio should generate it locally for 
 ## License
 
 This repository is kept as a college project archive and learning reference.
+
+The main goal was to demonstrate a complete Android project structure with ride creation, discovery, and UI prototypes for a ride-sharing app.
