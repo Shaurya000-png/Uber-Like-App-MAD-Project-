@@ -100,6 +100,8 @@ This project was built for a Mobile Application Development submission and focus
 
 
 ## Final Notes
+
+The codebase intentionally keeps the early MVP flow and the later CarPool Connect flow together to show the project evolution.
 ## License
 
 This repository is kept as a college project archive and learning reference.
