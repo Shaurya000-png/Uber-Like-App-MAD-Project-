@@ -98,6 +98,8 @@ The matching and chat screens are included as polished UI prototypes for a fulle
 
 This project was built for a Mobile Application Development submission and focuses on Android UI, activity navigation, local data handling, and practical ride-share flows.
 
+
+## Final Notes
 ## License
 
 This repository is kept as a college project archive and learning reference.
