@@ -109,3 +109,7 @@ The manifest keeps a placeholder Maps key so no private key is published.
 This repository is kept as a college project archive and learning reference.
 
 The main goal was to demonstrate a complete Android project structure with ride creation, discovery, and UI prototypes for a ride-sharing app.
+
+---
+
+Built as an Android MAD project prototype.
