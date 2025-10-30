@@ -10,6 +10,8 @@ An Android Mobile Application Development prototype for a simple Uber-style carp
 - Browse available rides in a RecyclerView list
 - Open a ride details screen from the search results
 - Seed sample rides through an in-memory repository for quick testing
+- Store created rides locally using a small JSON-backed helper
+- Search local rides by destination from the home screen
 
 ## Tech Stack
 
@@ -25,8 +27,6 @@ The project includes login and registration screens from the fuller CarPool Conn
 
 1. Open the project in Android Studio.
 2. Sync Gradle files and let Android Studio download dependencies.
-- Store created rides locally using a small JSON-backed helper
-- Search local rides by destination from the home screen
 3. Run the app on an Android emulator or physical device.
 4. Replace `YOUR_GOOGLE_MAPS_API_KEY` in `app/src/main/AndroidManifest.xml` before testing map-based screens.
 
@@ -98,12 +98,12 @@ The matching and chat screens are included as polished UI prototypes for a fulle
 
 This project was built for a Mobile Application Development submission and focuses on Android UI, activity navigation, local data handling, and practical ride-share flows.
 
-
 ## Final Notes
 
 The codebase intentionally keeps the early MVP flow and the later CarPool Connect flow together to show the project evolution.
 Do not commit `local.properties`; Android Studio should generate it locally for each machine.
 The manifest keeps a placeholder Maps key so no private key is published.
+
 ## License
 
 This repository is kept as a college project archive and learning reference.
